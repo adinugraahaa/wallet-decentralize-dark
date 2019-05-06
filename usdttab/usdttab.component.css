@@ -1,0 +1,23 @@
+img{
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+    margin-left: 0px;
+}
+
+td{
+    font-size: 14px;
+}
+
+th{
+    font-size: 15px;
+}
+
+button{
+    height: 25px;
+    padding-top: 0px;
+}
+
+table{
+    color: #afb9ca;
+}
